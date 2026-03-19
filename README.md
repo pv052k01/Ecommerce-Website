@@ -50,5 +50,6 @@ Fetch API         Middleware Logic       Bcrypt.js (Hashing)
  
  3. Transaction: Cart data is verified server-side -> Stripe creates a secure payment intent -> Confirmation sent to Client.
 
+ ![My Image](https://github.com/pv052k01/Ecommerce-Website/blob/878574ac30f0b078e5ccd4f03d3a5f8203f597dc/overview.png)
 
 
